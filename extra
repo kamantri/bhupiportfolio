@@ -1,0 +1,335 @@
+ <!-- Skills Start -->
+<div class="service" id="skills">
+  <div class="container">
+    <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
+      <p>Expertise & Certifications</p>
+      <h2>Cybersecurity Skills</h2>
+    </div>
+    <div class="row">
+      <!-- Skill Item -->
+      <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="service-item">
+          <div class="service-icon">
+            <i class="fas fa-lock"></i>
+          </div>
+          <div class="service-text">
+            <h4>Application Security</h4>
+            <p>Certified AppSec Practitioner (CAP)</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.2s">
+        <div class="service-item">
+          <div class="service-icon">
+            <i class="fas fa-globe"></i>
+          </div>
+          <div class="service-text">
+            <h4>Web Application Security</h4>
+            <p>Certified AppSec Practitioner (CAP)</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
+        <div class="service-item">
+          <div class="service-icon">
+            <i class="fas fa-network-wired"></i>
+          </div>
+          <div class="service-text">
+            <h4>Network Hardening</h4>
+            <p>Junior Cybersecurity Analyst Career Path</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.4s">
+        <div class="service-item">
+          <div class="service-icon">
+            <i class="fas fa-server"></i>
+          </div>
+          <div class="service-text">
+            <h4>System & Network Defense</h4>
+            <p>Junior Cybersecurity Analyst Career Path</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
+        <div class="service-item">
+          <div class="service-icon">
+            <i class="fas fa-chart-pie"></i>
+          </div>
+          <div class="service-text">
+            <h4>Diamond Model of Intrusion Analysis</h4>
+            <p>Cyber Threat Management</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.6s">
+        <div class="service-item">
+          <div class="service-icon">
+            <i class="fas fa-sync-alt"></i>
+          </div>
+          <div class="service-text">
+            <h4>Disaster Recovery</h4>
+            <p>Cyber Threat Management</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.7s">
+        <div class="service-item">
+          <div class="service-icon">
+            <i class="fas fa-bug"></i>
+          </div>
+          <div class="service-text">
+            <h4>CVSS</h4>
+            <p>Common Vulnerability Scoring System</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.8s">
+        <div class="service-item">
+          <div class="service-icon">
+            <i class="fas fa-balance-scale"></i>
+          </div>
+          <div class="service-text">
+            <h4>Risk Management</h4>
+            <p>Cyber Threat Management</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.9s">
+        <div class="service-item">
+          <div class="service-icon">
+            <i class="fas fa-mobile-alt"></i>
+          </div>
+          <div class="service-text">
+            <h4>Secure Device Management</h4>
+            <p>Cyber Threat Management</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 wow fadeInUp" data-wow-delay="1.0s">
+        <div class="service-item">
+          <div class="service-icon">
+            <i class="fas fa-shield-alt"></i>
+          </div>
+          <div class="service-text">
+            <h4>Endpoint Security</h4>
+            <p>Endpoint Security Certification</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 wow fadeInUp" data-wow-delay="1.1s">
+        <div class="service-item">
+          <div class="service-icon">
+            <i class="fas fa-check-double"></i>
+          </div>
+          <div class="service-text">
+            <h4>ISO/IEC 27001:2022</h4>
+            <p>Information Security Associate</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 wow fadeInUp" data-wow-delay="1.2s">
+        <div class="service-item">
+          <div class="service-icon">
+            <i class="fas fa-file-alt"></i>
+          </div>
+          <div class="service-text">
+            <h4>SoA & ISMS</h4>
+            <p>Statement of Applicability & InfoSec Management System</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 wow fadeInUp" data-wow-delay="1.3s">
+        <div class="service-item">
+          <div class="service-icon">
+            <i class="fas fa-user-secret"></i>
+          </div>
+          <div class="service-text">
+            <h4>Ethical Hacking</h4>
+            <p>Certified Ethical Hacker (CEH)</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 wow fadeInUp" data-wow-delay="1.4s">
+        <div class="service-item">
+          <div class="service-icon">
+            <i class="fas fa-search"></i>
+          </div>
+          <div class="service-text">
+            <h4>Penetration Testing</h4>
+            <p>Certified Ethical Hacker (CEH)</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- Skills Start -->
+<div class="skills-section" id="skills">
+  <div class="container">
+    <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
+      <p>Cybersecurity Expertise</p>
+      <h2>Skills & Certifications</h2>
+    </div>
+    <div class="row gy-4">
+
+      <!-- Skill Card -->
+      <div class="col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="skill-card shadow-sm">
+          <div class="icon-box bg-light-blue">
+            <i class="fas fa-lock"></i>
+          </div>
+          <h5>Application Security</h5>
+          <p>Certified AppSec Practitioner (CAP)</p>
+        </div>
+      </div>
+
+      <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+        <div class="skill-card shadow-sm">
+          <div class="icon-box bg-light-green">
+            <i class="fas fa-globe"></i>
+          </div>
+          <h5>Web Application Security</h5>
+          <p>Certified AppSec Practitioner (CAP)</p>
+        </div>
+      </div>
+
+      <div class="col-md-4 wow fadeInUp" data-wow-delay="0.3s">
+        <div class="skill-card shadow-sm">
+          <div class="icon-box bg-light-purple">
+            <i class="fas fa-network-wired"></i>
+          </div>
+          <h5>Network Hardening</h5>
+          <p>Junior Cybersecurity Analyst</p>
+        </div>
+      </div>
+
+      <div class="col-md-4 wow fadeInUp" data-wow-delay="0.4s">
+        <div class="skill-card shadow-sm">
+          <div class="icon-box bg-light-orange">
+            <i class="fas fa-shield-alt"></i>
+          </div>
+          <h5>System & Network Defense</h5>
+          <p>Junior Cybersecurity Analyst</p>
+        </div>
+      </div>
+
+      <div class="col-md-4 wow fadeInUp" data-wow-delay="0.5s">
+        <div class="skill-card shadow-sm">
+          <div class="icon-box bg-light-red">
+            <i class="fas fa-chart-pie"></i>
+          </div>
+          <h5>Diamond Model of Intrusion Analysis</h5>
+          <p>Cyber Threat Management</p>
+        </div>
+      </div>
+
+      <div class="col-md-4 wow fadeInUp" data-wow-delay="0.6s">
+        <div class="skill-card shadow-sm">
+          <div class="icon-box bg-light-teal">
+            <i class="fas fa-sync-alt"></i>
+          </div>
+          <h5>Disaster Recovery</h5>
+          <p>Cyber Threat Management</p>
+        </div>
+      </div>
+
+      <div class="col-md-4 wow fadeInUp" data-wow-delay="0.7s">
+        <div class="skill-card shadow-sm">
+          <div class="icon-box bg-light-yellow">
+            <i class="fas fa-bug"></i>
+          </div>
+          <h5>CVSS</h5>
+          <p>Common Vulnerability Scoring System</p>
+        </div>
+      </div>
+
+      <div class="col-md-4 wow fadeInUp" data-wow-delay="0.8s">
+        <div class="skill-card shadow-sm">
+          <div class="icon-box bg-light-cyan">
+            <i class="fas fa-balance-scale"></i>
+          </div>
+          <h5>Risk Management</h5>
+          <p>Cyber Threat Management</p>
+        </div>
+      </div>
+
+      <div class="col-md-4 wow fadeInUp" data-wow-delay="0.9s">
+        <div class="skill-card shadow-sm">
+          <div class="icon-box bg-light-pink">
+            <i class="fas fa-mobile-alt"></i>
+          </div>
+          <h5>Secure Device Management</h5>
+          <p>Cyber Threat Management</p>
+        </div>
+      </div>
+
+      <div class="col-md-4 wow fadeInUp" data-wow-delay="1.0s">
+        <div class="skill-card shadow-sm">
+          <div class="icon-box bg-light-gray">
+            <i class="fas fa-shield-virus"></i>
+          </div>
+          <h5>Endpoint Security</h5>
+          <p>Endpoint Security Certification</p>
+        </div>
+      </div>
+
+      <div class="col-md-4 wow fadeInUp" data-wow-delay="1.1s">
+        <div class="skill-card shadow-sm">
+          <div class="icon-box bg-light-indigo">
+            <i class="fas fa-certificate"></i>
+          </div>
+          <h5>ISO/IEC 27001:2022</h5>
+          <p>Information Security Associate</p>
+        </div>
+      </div>
+
+      <div class="col-md-4 wow fadeInUp" data-wow-delay="1.2s">
+        <div class="skill-card shadow-sm">
+          <div class="icon-box bg-light-brown">
+            <i class="fas fa-file-alt"></i>
+          </div>
+          <h5>SoA & ISMS</h5>
+          <p>Statement of Applicability & ISMS</p>
+        </div>
+      </div>
+
+      <div class="col-md-4 wow fadeInUp" data-wow-delay="1.3s">
+        <div class="skill-card shadow-sm">
+          <div class="icon-box bg-light-maroon">
+            <i class="fas fa-user-secret"></i>
+          </div>
+          <h5>Ethical Hacking</h5>
+          <p>Certified Ethical Hacker (CEH)</p>
+        </div>
+      </div>
+
+      <div class="col-md-4 wow fadeInUp" data-wow-delay="1.4s">
+        <div class="skill-card shadow-sm">
+          <div class="icon-box bg-light-navy">
+            <i class="fas fa-search"></i>
+          </div>
+          <h5>Penetration Testing</h5>
+          <p>Certified Ethical Hacker (CEH)</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+<!-- Skills End -->
